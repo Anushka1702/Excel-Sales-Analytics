@@ -7,7 +7,7 @@
 ### **Project Objective**
 
 1. Create a [Customer Performance Report](https://github.com/Anushka1702/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report%20.pdf).
-2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/Anushka1702/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20.pdf).
 
 ### **Purpose of Sales Analytics**
 
